@@ -2,8 +2,10 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/DesignPattern/DesignPattern.iml" filepath="$PROJECT_DIR$/DesignPattern/DesignPattern.iml" />
       <module fileurl="file://$PROJECT_DIR$/InputOutput/InputOutput.iml" filepath="$PROJECT_DIR$/InputOutput/InputOutput.iml" />
       <module fileurl="file://$PROJECT_DIR$/OOP-HW.iml" filepath="$PROJECT_DIR$/OOP-HW.iml" />
+      <module fileurl="file://$PROJECT_DIR$/dahinh/dahinh.iml" filepath="$PROJECT_DIR$/dahinh/dahinh.iml" />
     </modules>
   </component>
 </project>
